@@ -38,6 +38,11 @@ We have also provided a test audio file, which the user can download and check t
 5. Generate and save the PDF report.
 6. (Optional) Send department-specific tasks via WhatsApp.
 
+
+## FUTURE DEVLOPMENTS
+1. **Integration with Meeting Platforms** – Add APIs to connect with Zoom, Google Meet, or Microsoft Teams for automatic transcription.
+2. **Cloud Storage and Sharing** – Enable users to store transcriptions and summaries in Google Drive, Dropbox, or send them via email.
+
 ## Team Members
 - **Neel Dhaygude** (22BCE1052)
 - **Govind** (22BRS1109)
