@@ -100,7 +100,7 @@ def generate_pdf_report(meeting_name, summary, tasks):
                     send_hour = current_time.tm_hour
                     send_minute = current_time.tm_min + 1  # Adding one minute for sending the message
                     
-                    kit.sendwhatmsg(dept_number, task_message, send_hour, send_minute)
+                    kit.sendwhatmsg_instantly(dept_number, task_message)
                     messagebox.showinfo("Message Sent", f"Tasks sent to {dept}!")
                 except Exception as e:
                     messagebox.showerror("Error", f"Failed to send message: {e}")
