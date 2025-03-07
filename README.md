@@ -3,6 +3,8 @@
 ## Overview
 Meeting Transcriber is an AI-powered transcription and summarization tool designed to convert spoken content into text, extract key discussion points, and identify department-specific tasks. It leverages advanced NLP models to generate concise summaries and provides an option to send task updates via WhatsApp.
 
+We have also provided a test audio file, which the user can download and check the functionality.
+
 ## Features
 - **Real-time transcription** using Whisper AI.
 - **Summarization** powered by BART NLP models.
