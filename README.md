@@ -1,4 +1,5 @@
-# Meeting Transcriber
+# TEAM STIPEND: Meetings made easy
+# PROBLEM STATMENT NUMBER 5: AI-Powered Meeting Summary and Action Item Extraction
 
 ## Overview
 Meeting Transcriber is an AI-powered transcription and summarization tool designed to convert spoken content into text, extract key discussion points, and identify department-specific tasks. It leverages advanced NLP models to generate concise summaries and provides an option to send task updates via WhatsApp.
